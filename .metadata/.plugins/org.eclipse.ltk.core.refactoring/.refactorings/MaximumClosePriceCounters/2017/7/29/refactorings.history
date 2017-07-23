@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;WordCount/src&apos;&#x0A;- Original project: &apos;MaximumClosePriceCounters&apos;&#x0A;- Destination element: &apos;WordCount/src&apos;&#x0A;- Original elements:&#x0A;     com.hirw.maxcloseprice.MaxClosePrice.java&#x0A;     com.hirw.maxcloseprice.MaxClosePriceReducer.java&#x0A;     com.hirw.maxcloseprice.MaxClosePriceMapper.java" description="Copy compilation units" destination="=WordCount/src" element1="/src&lt;com.hirw.maxcloseprice{MaxClosePrice.java" element2="/src&lt;com.hirw.maxcloseprice{MaxClosePriceReducer.java" element3="/src&lt;com.hirw.maxcloseprice{MaxClosePriceMapper.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1500242288616" units="3" version="1.0"/>
+</session>

@@ -1,0 +1,7 @@
+com\hirw\convertor\custom\PDFWritable.class
+com\hirw\convertor\mr\PDFMapper.class
+com\hirw\convertor\custom\PDFInputFormat.class
+com\hirw\convertor\custom\PDFOutputFormat.class
+com\hirw\convertor\custom\PDFInputFormat$PDFRecordReader.class
+com\hirw\convertor\mr\TextToPdf.class
+com\hirw\convertor\custom\PDFOutputFormat$PDFRecordWriter.class

@@ -1,0 +1,3 @@
+com\hirw\wordcount\WordCountMapper.class
+com\hirw\wordcount\WordCount.class
+com\hirw\wordcount\WordCountReducer.class

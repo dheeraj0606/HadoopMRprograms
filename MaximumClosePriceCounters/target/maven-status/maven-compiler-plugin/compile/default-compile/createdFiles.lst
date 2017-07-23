@@ -1,0 +1,5 @@
+com/hirw/maxcloseprice/MaxClosePrice.class
+com/hirw/maxcloseprice/MaxClosePriceMapper$Volume.class
+com/hirw/maxcloseprice/MaxClosePriceReducer.class
+com/hirw/maxcloseprice/tests/MaxClosePriceTest.class
+com/hirw/maxcloseprice/MaxClosePriceMapper.class

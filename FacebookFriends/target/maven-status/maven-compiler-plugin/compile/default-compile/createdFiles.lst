@@ -1,0 +1,7 @@
+com\hirw\facebookfriends\mr\FacebookFriendsDriver.class
+com\hirw\facebookfriends\mr\FacebookFriendsReducer.class
+com\hirw\facebookfriends\writables\FriendArray.class
+com\hirw\facebookfriends\mr\FacebookFriendsMapper.class
+com\hirw\facebookfriends\tests\FacebookFriendsTest.class
+com\hirw\facebookfriends\writables\Friend.class
+com\hirw\facebookfriends\writables\FriendPair.class

@@ -1,0 +1,4 @@
+com\hirw\maxcloseprice\MaxClosePriceReducer.class
+com\hirw\maxcloseprice\MaxClosePriceTool.class
+com\hirw\maxcloseprice\tests\MaxClosePriceTest.class
+com\hirw\maxcloseprice\MaxClosePriceMapper.class
